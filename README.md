@@ -60,6 +60,7 @@
 ### 📫 Contato
 
 <p>
+  <a href="https://www.linkedin.com/in/genilson-junior-85607a233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:genilson.junior.99006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/araujo_jrs"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="http://lattes.cnpq.br/1941709204901827"><img src="https://img.shields.io/badge/Currículo-Lattes-0A5C9E?logo=googlescholar&logoColor=white" alt="Lattes"></a>
