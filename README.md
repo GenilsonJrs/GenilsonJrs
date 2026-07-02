@@ -53,8 +53,8 @@
 ### 📊 GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GenilsonJrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonJrs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/GenilsonJrs?style=for-the-badge&logo=github&label=Seguidores&color=1f6feb&labelColor=0d1117" alt="Seguidores">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGenilsonJrs&query=%24.public_repos&style=for-the-badge&logo=github&label=Reposit%C3%B3rios&color=1f6feb&labelColor=0d1117" alt="Repositórios públicos">
 </p>
 
 ### 📫 Contato
