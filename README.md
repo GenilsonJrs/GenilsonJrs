@@ -27,7 +27,7 @@ projetos práticos que percorrem todo o caminho, do firmware ao dado.
 | [esp32-pir-alexa-avant](https://github.com/GenilsonJrs/esp32-pir-alexa-avant) | Automação residencial: sensor PIR liga/desliga a lâmpada via ESP32, SinricPro e Alexa. |
 | [alimentador-gato-esp32c3](https://github.com/GenilsonJrs/alimentador-gato-esp32c3) | Alimentador automático de gato com ESP32-C3, servo SG90 e controle por bot do Telegram. |
 | [brazilian-ecommerce-etl](https://github.com/GenilsonJrs/brazilian-ecommerce-etl) | Pipeline ETL com arquitetura de medalhão do dataset Olist, com dashboards em Power BI. |
-| [cozinha-pratica](https://github.com/GenilsonJrs/cozinha-pratica) | App mobile (Flutter) que sugere receitas a partir dos ingredientes disponíveis. |
+| [tcc-eng-software-ema](https://github.com/GenilsonJrs/tcc-eng-software-ema) | TCC (Engenharia de Software, UnB): aplicação de Engenharia de Software a sistemas robóticos de reabilitação do Projeto EMA — estudos de caso em Realidade Virtual e Ciclismo com FES. |
 
 ## Stack
 
